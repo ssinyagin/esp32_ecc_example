@@ -6,7 +6,9 @@ to the current ESP-IDF (git master branch, commit 1d77b5b6 of Mon Feb 14 17:13:5
 
 After cloning the repo, do:
 
-  git submodule update --init --recursive
+```
+git submodule update --init --recursive
+```
 
 
 ssinyagin@gmail.com
